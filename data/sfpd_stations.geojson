@@ -1,0 +1,289 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409876117161,
+          37.7986503181515
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1,
+        "DISTRICT": "CENTRAL",
+        "COMPANY": "A",
+        "DIST": "CENT",
+        "CO": "Co. A",
+        "DIST_ORD": "A.CENT",
+        "ZIP_CODE": "94133",
+        "PHONE": "1-415-315-2400",
+        "TIP_LINE": "1-415-392-2623",
+        "TTY_LINE": "1-415-576-1711",
+        "PERMIT_OFF": "1-415-315-2423",
+        "EMAIL": "SFPDCentralStation@sfgov.org",
+        "TWITTER": "https://twitter.com/SFPDCentral",
+        "WEB_SITE": "https://sanfranciscopolice.org/central",
+        "STN_ADDRESS": "766 VALLEJO ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38917775241,
+          37.7721882418674
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 2,
+        "DISTRICT": "SOUTHERN",
+        "COMPANY": "B",
+        "DIST": "SOUT",
+        "CO": "Co. B",
+        "DIST_ORD": "B.SOUT",
+        "ZIP_CODE": "94158",
+        "PHONE": "1-415-575-6000",
+        "TIP_LINE": "1-415-552-4901",
+        "TTY_LINE": "1-415-575-6079",
+        "PERMIT_OFF": "1-415-575-6000",
+        "EMAIL": "SFPDSouthernStation@sfgov.org",
+        "TWITTER": "https://twitter.com/SFPDSouthern",
+        "WEB_SITE": "https://sanfranciscopolice.org/southern",
+        "STN_ADDRESS": "1251 3RD ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.398099752496,
+          37.7296467124874
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 3,
+        "DISTRICT": "BAYVIEW",
+        "COMPANY": "C",
+        "DIST": "BAYV",
+        "CO": "Co. C",
+        "DIST_ORD": "C.BAYV",
+        "ZIP_CODE": "94124",
+        "PHONE": "1-415-671-2300",
+        "TIP_LINE": "1-415-822-8147",
+        "TTY_LINE": "1-415-671-2346",
+        "PERMIT_OFF": "1-415-671-2313",
+        "EMAIL": "SFPDBayviewStation@sfgov.org",
+        "TWITTER": "https://twitter.com/SFPDBayview",
+        "WEB_SITE": "https://sanfranciscopolice.org/bayview",
+        "STN_ADDRESS": "201 WILLIAMS AV"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422022151686,
+          37.762998642919
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 4,
+        "DISTRICT": "MISSION",
+        "COMPANY": "D",
+        "DIST": "MISS",
+        "CO": "Co. D",
+        "DIST_ORD": "D.MISS",
+        "ZIP_CODE": "94110",
+        "PHONE": "1-415-558-5400",
+        "TIP_LINE": "1-415-552-4558",
+        "TTY_LINE": "1-415-431-6241",
+        "PERMIT_OFF": "1-415-558-5413",
+        "EMAIL": "SFPDMissionStation@sfgov.org",
+        "TWITTER": "https://twitter.com/SFPDMission",
+        "WEB_SITE": "https://sanfranciscopolice.org/mission",
+        "STN_ADDRESS": "630 VALENCIA ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432403644003,
+          37.7801661362026
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 5,
+        "DISTRICT": "NORTHERN",
+        "COMPANY": "E",
+        "DIST": "NORT",
+        "CO": "Co. E",
+        "DIST_ORD": "E.NORT",
+        "ZIP_CODE": "94115",
+        "PHONE": "1-415-614-3400",
+        "TIP_LINE": "1-415-822-8147",
+        "TTY_LINE": "1-415-614-3438",
+        "PERMIT_OFF": "1-415-614-3405",
+        "EMAIL": "SFPDNorthernStation@sfgov.org",
+        "TWITTER": "https://twitter.com/SFPDNorthern",
+        "WEB_SITE": "https://sanfranciscopolice.org/northern",
+        "STN_ADDRESS": "1125 FILLMORE ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.455279808619,
+          37.7678536179284
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6,
+        "DISTRICT": "PARK",
+        "COMPANY": "F",
+        "DIST": "PARK",
+        "CO": "Co. F",
+        "DIST_ORD": "F.PARK",
+        "ZIP_CODE": "94117",
+        "PHONE": "1-415-242-3000",
+        "TIP_LINE": "1-415-731-2865",
+        "TTY_LINE": "1-415-681-6487",
+        "PERMIT_OFF": "1-415-242-3032",
+        "EMAIL": "SFPDParkStation@sfgov.org",
+        "TWITTER": "https://twitter.com/SFPDPark",
+        "WEB_SITE": "https://sanfranciscopolice.org/park",
+        "STN_ADDRESS": "1899 WALLER ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.464473942919,
+          37.7800062857185
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 7,
+        "DISTRICT": "RICHMOND",
+        "COMPANY": "G",
+        "DIST": "RICH",
+        "CO": "Co. G",
+        "DIST_ORD": "G.RICH",
+        "ZIP_CODE": "94118",
+        "PHONE": "1-415-666-8000",
+        "TIP_LINE": "1-415-668-7387",
+        "TTY_LINE": "1-415-666-8059",
+        "PERMIT_OFF": "1-415-666-8023",
+        "EMAIL": "SFPDRichmondStation@sfgov.org",
+        "TWITTER": "https://twitter.com/SFPDRichmond",
+        "WEB_SITE": "https://sanfranciscopolice.org/richmond",
+        "STN_ADDRESS": "461 6TH AV"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.446264249647,
+          37.7247751246662
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 8,
+        "DISTRICT": "INGLESIDE",
+        "COMPANY": "H",
+        "DIST": "INGL",
+        "CO": "Co. H",
+        "DIST_ORD": "H.INGL",
+        "ZIP_CODE": "94112",
+        "PHONE": "1-415-404-4000",
+        "TIP_LINE": "1-415-575-4444",
+        "TTY_LINE": "1-415-404-4009",
+        "PERMIT_OFF": "1-415-404-4023",
+        "EMAIL": "SFPDInglesideStation@sfgov.org",
+        "TWITTER": "https://twitter.com/SFPDIngleside",
+        "WEB_SITE": "https://sanfranciscopolice.org/ingleside",
+        "STN_ADDRESS": "1 SGT JOHN V YOUNG LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481473979738,
+          37.7437387834873
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 9,
+        "DISTRICT": "TARAVAL",
+        "COMPANY": "I",
+        "DIST": "TARA",
+        "CO": "Co. I",
+        "DIST_ORD": "I.TARA",
+        "ZIP_CODE": "94116",
+        "PHONE": "1-415-759-3100",
+        "TIP_LINE": "1-415-242-9753",
+        "TTY_LINE": "1-415-753-7154",
+        "PERMIT_OFF": "1-415-759-3123",
+        "EMAIL": "SFPDTaravalStation@sfgov.org",
+        "TWITTER": "https://twitter.com/SFPDTaraval",
+        "WEB_SITE": "https://sanfranciscopolice.org/taraval",
+        "STN_ADDRESS": "2345 24TH AV"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.412908959505,
+          37.7837090555761
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 10,
+        "DISTRICT": "TENDERLOIN",
+        "COMPANY": "J",
+        "DIST": "TEND",
+        "CO": "Co. J",
+        "DIST_ORD": "J.TEND",
+        "ZIP_CODE": "94102",
+        "PHONE": "1-415-345-7300",
+        "TIP_LINE": "1-415-575-4444",
+        "TTY_LINE": "1-415-474-5763",
+        "PERMIT_OFF": "1-415-345-7340",
+        "EMAIL": "SFPDTenderloinStation@sfgov.org",
+        "TWITTER": "https://twitter.com/SFPDTenderloin",
+        "WEB_SITE": "https://sanfranciscopolice.org/tenderloin",
+        "STN_ADDRESS": "301 EDDY ST"
+      }
+    }
+  ],
+  "metadata": {
+    "featureCount": 10,
+    "hasGeometry": true
+  }
+}
